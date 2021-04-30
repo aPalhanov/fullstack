@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Aleshka is a sweet boy",
+    "mongoUri": "mongodb+srv://palhanov:724hj6@fullstack.dgb2v.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
